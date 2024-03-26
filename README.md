@@ -1,4 +1,4 @@
-# Open WebUI (Formerly Ollama WebUI) 👋
+# Aibot WebUI (Formerly Ollama WebUI) 👋
 
 ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/open-webui/open-webui?style=social)
